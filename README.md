@@ -1,54 +1,43 @@
+## ROLLCE / README.md
+
 # rollce
 
-AI-first software engineer focused on Telegram products.
+`AI Coder` | `Telegram Systems` | `Railway Deployments`
 
-I build:
-- Telegram bots
-- Telegram Mini Apps
-- Web applications
+I build production-ready Telegram products and web systems:
+bots, Mini Apps, backend APIs, and automation workflows.
 
-Contact: [@rollsev](https://t.me/rollsev)
+![Telegram](https://img.shields.io/badge/Telegram-@rollsev-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-rollce-111111?style=for-the-badge&logo=github&logoColor=white)
 
-## Core Stack
+## What I Deliver
 
-### Languages
-- Python
-- TypeScript
-- Go
-- SQL
+- End-to-end Telegram bots: from architecture to stable production.
+- Telegram Mini Apps with clean UX, backend integration, and auth/billing flows.
+- Web applications and internal dashboards with practical business logic.
+- AI-assisted content and automation pipelines for high-volume workflows.
+- CI/CD and operational setup with clear release and rollback paths.
 
-### Backend
-- FastAPI
-- Aiogram
-- Aiohttp
-- SQLAlchemy
-- Alembic
-- REST API architecture
+## Engineering Focus
 
-### Frontend
-- React
-- Next.js
-- Telegram Mini Apps SDK
-- TypeScript UI architecture
+- **Core:** Python, TypeScript, Go, SQL.
+- **Bot/API:** Aiogram, FastAPI, Aiohttp, REST design, webhook/polling ops.
+- **Web:** React, Next.js, Telegram Mini Apps SDK.
+- **Data:** PostgreSQL, Redis, SQLAlchemy, Alembic.
+- **Infra:** Docker, GitHub Actions, Railway.
 
-### Data and Infra
-- PostgreSQL
-- Redis
-- Docker
-- GitHub Actions
-- Railway deployments
+## Deployment Standard
 
-## Deployment Approach
+Most projects are deployed on Railway with:
 
-I usually deploy projects on Railway:
-- app service
-- PostgreSQL service
-- environment-based configuration
-- auto-deploy from `main`
+- separate services for app and PostgreSQL.
+- environment-based config per stage.
+- automated deploys from `main`.
+- migration-first startup strategy.
 
-## Featured Work
+## Featured Project
 
-- [posterbot](https://github.com/rollce/posterbot) - Telegram content workflow bot
+- [posterbot](https://github.com/rollce/posterbot) - Telegram content workflow bot with AI generation, paraphrasing, image card pipeline, and payments.
 
 ## Support
 
