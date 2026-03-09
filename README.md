@@ -1,56 +1,54 @@
-## ROLLCE / README.md
+<h1>rollce</h1>
 
-# rollce
+<p>
+  <code>AI Coder</code> |
+  <code>Telegram Bots</code> |
+  <code>Mini Apps</code> |
+  <code>Web Systems</code>
+</p>
 
-`AI Coder` | `Telegram Systems` | `Railway Deployments`
+I build production-focused software with an AI-first workflow: Telegram bots, Telegram Mini Apps, backend APIs, and web applications.
 
-I build production-ready Telegram products and web systems:
-bots, Mini Apps, backend APIs, and automation workflows.
+<p>
+  <a href="https://t.me/rollsev">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@rollsev-2AABEE?style=flat-square&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/rollce">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rollce-111111?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img alt="Deploy" src="https://img.shields.io/badge/Deploy-Railway-4B4BFF?style=flat-square" />
+</p>
 
-![Telegram](https://img.shields.io/badge/Telegram-@rollsev-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-rollce-111111?style=for-the-badge&logo=github&logoColor=white)
+---
 
 ## What I Deliver
 
-- End-to-end Telegram bots: from architecture to stable production.
-- Telegram Mini Apps with clean UX, backend integration, and auth/billing flows.
-- Web applications and internal dashboards with practical business logic.
-- AI-assisted content and automation pipelines for high-volume workflows.
-- CI/CD and operational setup with clear release and rollback paths.
+- Telegram bots from prototype to stable production.
+- Telegram Mini Apps with backend integration and payment flows.
+- Web products and admin dashboards with practical architecture.
+- Automation pipelines for content and operations.
 
 ## Engineering Focus
 
-- **Core:** Python, TypeScript, Go, SQL.
-- **Bot/API:** Aiogram, FastAPI, Aiohttp, REST design, webhook/polling ops.
-- **Web:** React, Next.js, Telegram Mini Apps SDK.
-- **Data:** PostgreSQL, Redis, SQLAlchemy, Alembic.
-- **Infra:** Docker, GitHub Actions, Railway.
+- **Core:** Python, TypeScript, Go, SQL
+- **Bot/API:** Aiogram, FastAPI, Aiohttp, REST
+- **Web:** React, Next.js, Telegram Mini Apps SDK
+- **Data:** PostgreSQL, Redis, SQLAlchemy, Alembic
+- **Infra:** Docker, GitHub Actions, Railway
 
-## Deployment Standard
+## Public Repositories
 
-Most projects are deployed on Railway with:
-
-- separate services for app and PostgreSQL.
-- environment-based config per stage.
-- automated deploys from `main`.
-- migration-first startup strategy.
-
-## Featured Project
-
-- [posterbot](https://github.com/rollce/posterbot) - Telegram content workflow bot with AI generation, paraphrasing, image card pipeline, and payments.
+- [DialogSpyBot](https://github.com/rollce/DialogSpyBot) - Go-based Telegram project.
+- [fragmentsender](https://github.com/rollce/fragmentsender) - Python automation utility.
+- [ton-price-bot](https://github.com/rollce/ton-price-bot) - Telegram bot for TON price tracking.
+- [rollce](https://github.com/rollce/rollce) - profile configuration repository.
 
 ## Support
 
-If you want to support my work:
-
 - TON: `UQC9erjXWopJzdKHNXFKDwiXqWJEpPpjX2dhO5lb6_cFB2sH`
 - TRC-20 (USDT): `TDMb9zSRaeowPQtgEDpVNaE6aRp7oH5scB`
-- ERC-20 (Ethereum): `0x64b6d972f0090ee08bedce36beba3139f70724a2`
+- ERC-20 (ETH): `0x64b6d972f0090ee08bedce36beba3139f70724a2`
 
-## GitHub Activity
+## Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rollce&show_icons=true&hide_border=true&title_color=2ea043&icon_color=2ea043&text_color=c9d1d9&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rollce&layout=compact&hide_border=true&title_color=2ea043&text_color=c9d1d9&bg_color=0d1117)
-
-![Snake](https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg)
