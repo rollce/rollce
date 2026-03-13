@@ -18,11 +18,19 @@ I build backend systems, Telegram bots and mini apps, AI automations, and practi
 
 ## Services I Provide
 
-- Backend API Development: design and implementation of reliable REST services, auth flows, integrations, and production-ready business logic.
-- Telegram Bot Development: bots for customer support, business automation, moderation, notifications, and data workflows.
-- Telegram Mini Apps: full web interfaces inside Telegram with secure API integration and smooth product UX.
-- AI Automations: AI-powered assistants and workflow automations for repetitive business tasks and content operations.
+- Backend API Development: architecture and implementation of reliable REST services, auth flows, integrations, and production-ready business logic.
+- Telegram Bot Development: bots for support, notifications, moderation, CRM flows, and business operations.
+- Telegram Mini Apps: full web interfaces inside Telegram with secure backend integration.
+- AI Automations: assistants and workflow automations for repetitive business tasks.
 - Web Application Development: modern web apps from architecture to deployment (`Next.js`, `React`, `TypeScript`).
+
+## Case Studies
+
+| Case | Problem | My Solution | Current Outcome |
+|---|---|---|---|
+| Campus Track | Student teams lose deadlines and task ownership | Multi-page project and task platform with status transitions and analytics | Deployed MVP with API routes and real workflow structure |
+| Essay Insight AI | Essay feedback is slow and unclear | Explainable scoring pipeline with readability, structure, and coherence metrics | Live analysis product with methodology page and scoring API |
+| QueueCare Navigator | Patients choose wrong queues and waste time | Triage scoring + clinic recommendation engine based on urgency and wait thresholds | Live healthcare routing prototype with clear decision logic |
 
 ## Portfolio Suite (8 Distinct Products)
 
@@ -39,27 +47,75 @@ All 8 services are deployed under one Railway project (`portfolio-suite`) and ea
 | FoodLoop Home | Households waste food due to poor pantry visibility | [Repo](https://github.com/rollce/foodloop-home) | [Live](https://food.rollsev.work) |
 | SkillBridge Local | Communities fail to match volunteers to needs quickly | [Repo](https://github.com/rollce/skillbridge-local) | [Live](https://skill.rollsev.work) |
 
-## Tech Stack (Updated)
+## Featured Repositories
 
-- Backend & automation: `Python`, `FastAPI`, `aiogram`, `TypeScript`, `REST APIs`, `Redis`, `PostgreSQL`
-- Telegram ecosystem: `Telegram Bot API`, `Telegram Mini Apps`, business workflow bots
-- Core web stack: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`
-- UI systems used across products: `Ant Design`, `Material UI`, `Mantine`, `React-Bootstrap`, `Chakra UI`
-- Motion and data UX: `Framer Motion`, `Recharts`, `Lucide Icons`, `Tabler Icons`
-- API/backend style: `Next.js Route Handlers`, REST endpoints, domain-focused feature modules
-- Deployment & delivery: `Railway`, `GitHub`, `GitHub Actions`
+- [DialogSpyBot](https://github.com/rollce/DialogSpyBot): Telegram Business archive system with web dossier (`Go`, `PostgreSQL`, `Docker`).
+- [fragmentsender](https://github.com/rollce/fragmentsender): API automation for Fragment Stars/Premium operations (`Python`, `FastAPI`, `aiohttp`).
+- [ton-price-bot](https://github.com/rollce/ton-price-bot): Telegram market bot with charted price updates (`Python`, `aiogram`, `matplotlib`).
+- [rollsev-work](https://github.com/rollce/rollsev-work): Main personal website with unique visitors counter and production domain setup.
 
-## Other Open Source Projects
+## Core Expertise
 
-| Project | Focus | Stack | Repo |
-|---|---|---|---|
-| DialogSpyBot | Telegram Business chat archive + web dossier | Go, PostgreSQL, Docker | [Repo](https://github.com/rollce/DialogSpyBot) |
-| fragmentsender | Fragment Stars/Premium purchase API | Python, FastAPI, aiohttp, TON SDK | [Repo](https://github.com/rollce/fragmentsender) |
-| ton-price-bot | TON price tracking bot with chart reports | Python, aiogram, matplotlib, aiohttp | [Repo](https://github.com/rollce/ton-price-bot) |
+### Backend Focus
+- API architecture and route design
+- Data modeling and validation
+- Redis/PostgreSQL integration patterns
+- Webhooks and external service integrations
+- Production deployment with Railway
 
-## Architecture Artifact (Figma MCP)
+### Telegram Expertise
+- Telegram Bot API flows
+- Telegram Mini App architecture
+- Bot-driven automation and alerting
+- Multi-step conversational UX for business tasks
 
-- [University Portfolio Architecture (FigJam)](https://www.figma.com/online-whiteboard/create-diagram/509b0cf9-66d2-4b97-9e5c-8970d45e39b0?utm_source=other&utm_content=edit_in_figjam&oai_id=&request_id=7dac2027-30cc-4706-8129-3e39cbe3f3b9)
+### AI Automation Use Cases
+- Automatic text analysis and classification
+- Workflow assistants for repetitive operations
+- Decision support pipelines for support and ops teams
+
+### Web Development
+- Product-oriented frontend architecture
+- Multi-page application structure (App Router)
+- Practical UI systems for clear user workflows
+
+## System Design Approach
+
+```mermaid
+flowchart LR
+  A["User / Telegram Mini App"] --> B["Next.js Frontend"]
+  B --> C["API Route Handlers"]
+  C --> D["Business Logic"]
+  D --> E["PostgreSQL / Redis"]
+  D --> F["External APIs / Bot API"]
+  F --> G["Telegram Bots / Integrations"]
+```
+
+## Reliability & Delivery
+
+- Versioned repositories with reproducible local setup
+- Validation and defensive checks on API routes
+- Clear environment-driven configuration
+- CI-ready workflow and production deployment discipline
+- Domain-based public access for portfolio review
+
+## Profile Versions
+
+- University-focused profile: [README.university.md](https://github.com/rollce/rollce/blob/main/README.university.md)
+- Client-focused profile: [README.clients.md](https://github.com/rollce/rollce/blob/main/README.clients.md)
+
+## Roadmap (Now)
+
+- Build a production service for sourcing and delivery workflows from China.
+- Expand Telegram Mini App portfolio with stronger business cases.
+- Add stronger measurable outcomes to portfolio case studies.
+
+## Contact
+
+Open to internships, collaborations, and product engineering partnerships.
+
+- Telegram: [@rollsev](https://t.me/rollsev)
+- GitHub: [rollce](https://github.com/rollce)
 
 ## Contribution Activity
 
