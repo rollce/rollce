@@ -3,7 +3,8 @@
 <p>
   <code>Backend & Web Engineer</code> |
   <code>Telegram Bots & Mini Apps</code> |
-  <code>AI Automation Builder</code>
+  <code>AI Automation Builder</code> |
+  <code>Open Source SaaS Builder</code>
 </p>
 
 I build backend systems, Telegram bots and mini apps, AI automations, and practical web products from idea to production deployment.
@@ -28,9 +29,16 @@ I build backend systems, Telegram bots and mini apps, AI automations, and practi
 
 | Case | Problem | My Solution | Current Outcome |
 |---|---|---|---|
+| Atlas (Multi-tenant SaaS) | Most portfolio apps do not show real SaaS architecture | Built monorepo platform with tenancy, RBAC, billing gates, worker queues, and Railway deployment | Production-ready open-source system on `atlas.rollsev.work` |
 | Campus Track | Student teams lose deadlines and task ownership | Multi-page project and task platform with status transitions and analytics | Deployed MVP with API routes and real workflow structure |
 | Essay Insight AI | Essay feedback is slow and unclear | Explainable scoring pipeline with readability, structure, and coherence metrics | Live analysis product with methodology page and scoring API |
 | QueueCare Navigator | Patients choose wrong queues and waste time | Triage scoring + clinic recommendation engine based on urgency and wait thresholds | Live healthcare routing prototype with clear decision logic |
+
+## Flagship Open Source Project
+
+| Project | Focus | Repo | Live |
+|---|---|---|---|
+| Atlas | Multi-tenant SaaS platform (`web` + `api` + `worker` + `postgres` + `redis`) with policy-based RBAC and production deployment | [Repo](https://github.com/rollce/atlas) | [Live](https://atlas.rollsev.work) |
 
 ## Portfolio Suite (13 Distinct Products)
 
@@ -58,6 +66,7 @@ All 13 services are deployed under one Railway ecosystem and represented by dedi
 ### Backend Focus
 - API architecture and route design
 - Data modeling and validation
+- Multi-tenant SaaS patterns (`tenant_id`, RBAC, policy guards)
 - Redis/PostgreSQL integration patterns
 - Webhooks and external service integrations
 - Production deployment with Railway
@@ -76,6 +85,7 @@ All 13 services are deployed under one Railway ecosystem and represented by dedi
 ### Web Development
 - Product-oriented frontend architecture
 - Multi-page application structure (App Router)
+- Stateful UX flows (auth bootstrap, role-based actions, loading/error/empty states)
 - Practical UI systems for clear user workflows
 
 ## System Design Approach
@@ -94,6 +104,7 @@ flowchart LR
 
 - Versioned repositories with reproducible local setup
 - Validation and defensive checks on API routes
+- Monorepo quality gates: lint + typecheck + tests
 - Clear environment-driven configuration
 - CI-ready workflow and production deployment discipline
 - Domain-based public access for portfolio review
