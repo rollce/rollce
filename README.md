@@ -16,6 +16,14 @@ I build backend systems, Telegram bots and mini apps, AI automations, and practi
 
 ---
 
+## Services I Provide
+
+- Backend API Development: design and implementation of reliable REST services, auth flows, integrations, and production-ready business logic.
+- Telegram Bot Development: bots for customer support, business automation, moderation, notifications, and data workflows.
+- Telegram Mini Apps: full web interfaces inside Telegram with secure API integration and smooth product UX.
+- AI Automations: AI-powered assistants and workflow automations for repetitive business tasks and content operations.
+- Web Application Development: modern web apps from architecture to deployment (`Next.js`, `React`, `TypeScript`).
+
 ## Portfolio Suite (8 Distinct Products)
 
 All 8 services are deployed under one Railway project (`portfolio-suite`) and each has a separate GitHub repository.
