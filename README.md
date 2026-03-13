@@ -32,9 +32,9 @@ I build backend systems, Telegram bots and mini apps, AI automations, and practi
 | Essay Insight AI | Essay feedback is slow and unclear | Explainable scoring pipeline with readability, structure, and coherence metrics | Live analysis product with methodology page and scoring API |
 | QueueCare Navigator | Patients choose wrong queues and waste time | Triage scoring + clinic recommendation engine based on urgency and wait thresholds | Live healthcare routing prototype with clear decision logic |
 
-## Portfolio Suite (8 Distinct Products)
+## Portfolio Suite (13 Distinct Products)
 
-All 8 services are deployed under one Railway project (`portfolio-suite`) and each has a separate GitHub repository.
+All 13 services are deployed under one Railway ecosystem and represented by dedicated repositories.
 
 | Project | Problem Solved | Repo | Live |
 |---|---|---|---|
@@ -46,13 +46,16 @@ All 8 services are deployed under one Railway project (`portfolio-suite`) and ea
 | SafePath Campus | Students need safer night movement planning | [Repo](https://github.com/rollce/safepath-campus) | [Live](https://safe.rollsev.work) |
 | FoodLoop Home | Households waste food due to poor pantry visibility | [Repo](https://github.com/rollce/foodloop-home) | [Live](https://food.rollsev.work) |
 | SkillBridge Local | Communities fail to match volunteers to needs quickly | [Repo](https://github.com/rollce/skillbridge-local) | [Live](https://skill.rollsev.work) |
+| parsingfreelans | Freelance exchange automation with Telegram control, lead scoring, and diagnostics | [Repo](https://github.com/rollce/parsingfreelans) | Internal PoC |
+| DialogSpyBot | Telegram Business archive system with web dossier (`Go`, `PostgreSQL`, `Docker`) | [Repo](https://github.com/rollce/DialogSpyBot) | — |
+| fragmentsender | API automation for Fragment Stars/Premium operations (`Python`, `FastAPI`, `aiohttp`) | [Repo](https://github.com/rollce/fragmentsender) | — |
+| ton-price-bot | Telegram market bot with charted price updates (`Python`, `aiogram`, `matplotlib`) | [Repo](https://github.com/rollce/ton-price-bot) | — |
+| rollsev-work | Main personal website with unique visitors counter and production domain setup | [Repo](https://github.com/rollce/rollsev-work) | [Live](https://rollsev.work) |
 
 ## Featured Repositories
 
-- [DialogSpyBot](https://github.com/rollce/DialogSpyBot): Telegram Business archive system with web dossier (`Go`, `PostgreSQL`, `Docker`).
-- [fragmentsender](https://github.com/rollce/fragmentsender): API automation for Fragment Stars/Premium operations (`Python`, `FastAPI`, `aiohttp`).
-- [ton-price-bot](https://github.com/rollce/ton-price-bot): Telegram market bot with charted price updates (`Python`, `aiogram`, `matplotlib`).
-- [rollsev-work](https://github.com/rollce/rollsev-work): Main personal website with unique visitors counter and production domain setup.
+- [README.university.md](https://github.com/rollce/rollce/blob/main/README.university.md): University-focused profile version.
+- [README.clients.md](https://github.com/rollce/rollce/blob/main/README.clients.md): Client-focused profile version.
 
 ## Core Expertise
 
