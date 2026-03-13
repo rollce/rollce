@@ -1,12 +1,12 @@
 <h1 align="left">rollce</h1>
 
 <p>
-  <code>AI Web Engineer</code> |
-  <code>Fullstack Product Cases</code> |
-  <code>Problem-Driven Portfolio</code>
+  <code>Backend & Web Engineer</code> |
+  <code>Telegram Bots & Mini Apps</code> |
+  <code>AI Automation Builder</code>
 </p>
 
-I build practical web products around real user pain points, from idea to production deployment.
+I build backend systems, Telegram bots and mini apps, AI automations, and practical web products from idea to production deployment.
 
 <p>
   <a href="https://github.com/rollce"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rollce-111111?style=flat-square&logo=github&logoColor=white" /></a>
@@ -33,6 +33,8 @@ All 8 services are deployed under one Railway project (`portfolio-suite`) and ea
 
 ## Tech Stack (Updated)
 
+- Backend & automation: `Python`, `FastAPI`, `aiogram`, `TypeScript`, `REST APIs`, `Redis`, `PostgreSQL`
+- Telegram ecosystem: `Telegram Bot API`, `Telegram Mini Apps`, business workflow bots
 - Core web stack: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`
 - UI systems used across products: `Ant Design`, `Material UI`, `Mantine`, `React-Bootstrap`, `Chakra UI`
 - Motion and data UX: `Framer Motion`, `Recharts`, `Lucide Icons`, `Tabler Icons`
