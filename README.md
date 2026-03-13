@@ -22,14 +22,14 @@ All 8 services are deployed under one Railway project (`portfolio-suite`) and ea
 
 | Project | Problem Solved | Repo | Live |
 |---|---|---|---|
-| Open Data Lab | Open data is hard to understand for non-experts | [Repo](https://github.com/rollce/open-data-lab) | [Live](https://open-data-lab-production.up.railway.app) |
-| Campus Track | Student teams lose control over deadlines and task ownership | [Repo](https://github.com/rollce/campus-track) | [Live](https://campus-track-production-9941.up.railway.app) |
-| Essay Insight AI | Essay feedback is slow and non-transparent | [Repo](https://github.com/rollce/essay-insight-ai) | [Live](https://essay-insight-ai-production.up.railway.app) |
-| RentWise Splitter | Roommates argue over shared expenses | [Repo](https://github.com/rollce/rentwise-splitter) | [Live](https://rentwise-splitter-production.up.railway.app) |
-| QueueCare Navigator | Patients waste time in wrong clinic queues | [Repo](https://github.com/rollce/queuecare-navigator) | [Live](https://queuecare-navigator-production.up.railway.app) |
-| SafePath Campus | Students need safer night movement planning | [Repo](https://github.com/rollce/safepath-campus) | [Live](https://safepath-campus-production.up.railway.app) |
-| FoodLoop Home | Households waste food due to poor pantry visibility | [Repo](https://github.com/rollce/foodloop-home) | [Live](https://foodloop-home-production.up.railway.app) |
-| SkillBridge Local | Communities fail to match volunteers to needs quickly | [Repo](https://github.com/rollce/skillbridge-local) | [Live](https://skillbridge-local-production.up.railway.app) |
+| Open Data Lab | Open data is hard to understand for non-experts | [Repo](https://github.com/rollce/open-data-lab) | [Live](https://data.rollsev.work) |
+| Campus Track | Student teams lose control over deadlines and task ownership | [Repo](https://github.com/rollce/campus-track) | [Live](https://track.rollsev.work) |
+| Essay Insight AI | Essay feedback is slow and non-transparent | [Repo](https://github.com/rollce/essay-insight-ai) | [Live](https://essay.rollsev.work) |
+| RentWise Splitter | Roommates argue over shared expenses | [Repo](https://github.com/rollce/rentwise-splitter) | [Live](https://rent.rollsev.work) |
+| QueueCare Navigator | Patients waste time in wrong clinic queues | [Repo](https://github.com/rollce/queuecare-navigator) | [Live](https://queue.rollsev.work) |
+| SafePath Campus | Students need safer night movement planning | [Repo](https://github.com/rollce/safepath-campus) | [Live](https://safe.rollsev.work) |
+| FoodLoop Home | Households waste food due to poor pantry visibility | [Repo](https://github.com/rollce/foodloop-home) | [Live](https://food.rollsev.work) |
+| SkillBridge Local | Communities fail to match volunteers to needs quickly | [Repo](https://github.com/rollce/skillbridge-local) | [Live](https://skill.rollsev.work) |
 
 ## Tech Stack (Updated)
 
