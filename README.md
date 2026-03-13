@@ -52,10 +52,6 @@ All 13 services are deployed under one Railway ecosystem and represented by dedi
 | ton-price-bot | Telegram market bot with charted price updates (`Python`, `aiogram`, `matplotlib`) | [Repo](https://github.com/rollce/ton-price-bot) | — |
 | rollsev-work | Main personal website with unique visitors counter and production domain setup | [Repo](https://github.com/rollce/rollsev-work) | [Live](https://rollsev.work) |
 
-## Featured Repositories
-
-- [README.university.md](https://github.com/rollce/rollce/blob/main/README.university.md): University-focused profile version.
-- [README.clients.md](https://github.com/rollce/rollce/blob/main/README.clients.md): Client-focused profile version.
 
 ## Core Expertise
 
