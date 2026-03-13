@@ -1,58 +1,42 @@
-<h1>rollce</h1>
+<h1 align="left">rollce</h1>
 
 <p>
-  <code>AI Coder</code> |
-  <code>Telegram Bots</code> |
-  <code>Mini Apps</code> |
-  <code>Web Systems</code>
+  <code>AI Web Engineer</code> |
+  <code>Fullstack Apps</code> |
+  <code>Data Interfaces</code> |
+  <code>NLP Prototypes</code>
 </p>
 
-I build production-focused software with an AI-first workflow: Telegram bots, Telegram Mini Apps, backend APIs, and web applications.
+I build admissions-ready and production-focused web systems with clear architecture, strong UI execution, and measurable outcomes.
 
 <p>
-  <a href="https://t.me/rollsev">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@rollsev-2AABEE?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/rollce">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-rollce-111111?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <img alt="Deploy" src="https://img.shields.io/badge/Deploy-Railway-4B4BFF?style=flat-square" />
+  <a href="https://github.com/rollce"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-rollce-111111?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://t.me/rollsev"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@rollsev-2AABEE?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <img alt="Stack" src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Railway-1f2937?style=flat-square" />
 </p>
 
 ---
 
-## What I Deliver
+## Featured Portfolio Projects
 
-- Telegram bots from prototype to stable production.
-- Telegram Mini Apps with backend integration and payment flows.
-- Web products and admin dashboards with practical architecture.
-- Automation pipelines for content and operations.
+| Project | Code | Live Demo | Focus |
+|---|---|---|---|
+| Open Data Lab | [Repository](https://github.com/rollce/open-data-lab) | [Live](https://open-data-lab-portfolio-production.up.railway.app) | Research dashboard, data storytelling, interactive charts |
+| Campus Track | [Repository](https://github.com/rollce/campus-track) | [Live](https://campus-track-portfolio-production.up.railway.app) | Fullstack workflow app, API routes, role-based UX |
+| Essay Insight AI | [Repository](https://github.com/rollce/essay-insight-ai) | [Live](https://essay-insight-ai-portfolio-production.up.railway.app) | NLP scoring engine, explainable feedback, product UX |
+
+## Design Artifact (Figma MCP)
+
+- [University Portfolio Architecture (FigJam)](https://www.figma.com/online-whiteboard/create-diagram/509b0cf9-66d2-4b97-9e5c-8970d45e39b0?utm_source=other&utm_content=edit_in_figjam&oai_id=&request_id=7dac2027-30cc-4706-8129-3e39cbe3f3b9)
 
 ## Engineering Focus
 
-- **Core:** Python, TypeScript, Go, SQL
-- **Bot/API:** Aiogram, FastAPI, Aiohttp, REST
-- **Web:** React, Next.js, Telegram Mini Apps SDK
-- **Data:** PostgreSQL, Redis, SQLAlchemy, Alembic
-- **Infra:** Docker, GitHub Actions, Railway
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+- Backend: Next.js Route Handlers, REST patterns, validation-first APIs
+- Data and AI: analytics dashboards, heuristic NLP pipelines, explainable scoring
+- Delivery: GitHub workflows, Railway deployment, reproducible project docs
 
-## Public Repositories
+## Contact
 
-- [DialogSpyBot](https://github.com/rollce/DialogSpyBot) - Go-based Telegram project.
-- [fragmentsender](https://github.com/rollce/fragmentsender) - Python automation utility.
-- [ton-price-bot](https://github.com/rollce/ton-price-bot) - Telegram bot for TON price tracking.
-- [rollce](https://github.com/rollce/rollce) - profile configuration repository.
-
-## Support
-
-- TON: `UQC9erjXWopJzdKHNXFKDwiXqWJEpPpjX2dhO5lb6_cFB2sH`
-- TRC-20 (USDT): `TDMb9zSRaeowPQtgEDpVNaE6aRp7oH5scB`
-- ERC-20 (ETH): `0x64b6d972f0090ee08bedce36beba3139f70724a2`
-
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg" />
-</picture>
+- Telegram: [@rollsev](https://t.me/rollsev)
+- GitHub: [rollce](https://github.com/rollce)
