@@ -31,6 +31,30 @@ All 8 services are deployed under one Railway project (`portfolio-suite`) and ea
 | FoodLoop Home | Households waste food due to poor pantry visibility | [Repo](https://github.com/rollce/foodloop-home) | [Live](https://foodloop-home-production.up.railway.app) |
 | SkillBridge Local | Communities fail to match volunteers to needs quickly | [Repo](https://github.com/rollce/skillbridge-local) | [Live](https://skillbridge-local-production.up.railway.app) |
 
+## Tech Stack (Updated)
+
+- Core web stack: `Next.js`, `React`, `TypeScript`, `Tailwind CSS`
+- UI systems used across products: `Ant Design`, `Material UI`, `Mantine`, `React-Bootstrap`, `Chakra UI`
+- Motion and data UX: `Framer Motion`, `Recharts`, `Lucide Icons`, `Tabler Icons`
+- API/backend style: `Next.js Route Handlers`, REST endpoints, domain-focused feature modules
+- Deployment & delivery: `Railway`, `GitHub`, `GitHub Actions`
+
+## Other Open Source Projects
+
+| Project | Focus | Stack | Repo |
+|---|---|---|---|
+| DialogSpyBot | Telegram Business chat archive + web dossier | Go, PostgreSQL, Docker | [Repo](https://github.com/rollce/DialogSpyBot) |
+| fragmentsender | Fragment Stars/Premium purchase API | Python, FastAPI, aiohttp, TON SDK | [Repo](https://github.com/rollce/fragmentsender) |
+| ton-price-bot | TON price tracking bot with chart reports | Python, aiogram, matplotlib, aiohttp | [Repo](https://github.com/rollce/ton-price-bot) |
+
 ## Architecture Artifact (Figma MCP)
 
 - [University Portfolio Architecture (FigJam)](https://www.figma.com/online-whiteboard/create-diagram/509b0cf9-66d2-4b97-9e5c-8970d45e39b0?utm_source=other&utm_content=edit_in_figjam&oai_id=&request_id=7dac2027-30cc-4706-8129-3e39cbe3f3b9)
+
+## Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rollce/rollce/output/github-contribution-grid-snake.svg" />
+</picture>
